@@ -1,4 +1,14 @@
-### Hi there 👋
+## 🌱 Projects
+* [audiobook-dl](https://github.com/jo1gi/audiobook-dl): Audiobook downloader
+* [config](https://gitlab.com/jo1gi/config): My nix config and dotfiles
+* [grawlix](https://github.com/jo1gi/grawlix): eBook downloader
+* [naerao](https://gitlab.com/naerao/naerao): Convert ACSM files to PDF/EPUBs
+* [sea-serpent](https://github.com/jo1gi/sea-serpent): File tagging system
+
+## 📫 Contact me
+* Email: mail@joakimholm.xyz
+* Matrix: @jo1gi:matrix.org
+
 
 <!--
 **jo1gi/jo1gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
